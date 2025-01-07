@@ -17,7 +17,7 @@ Analyze sales trends, revenue, and customer segmentation to derive actionable in
 Power BI Desktop, SQL  
 
 ### File:  
-[Download Sales Analysis Dashboard (.pbix)](https://github.com/Kapil232002/Power-bi-Projects/blob/main/sales%20analysis%20project.pbix?raw=true)  
+[Download Sales Analysis Dashboard (.pbix)](https://github.com/Kapil232002/Power-bi-Projects/blob/main/sales%20analysis%20project.pbix)  
 
 ---
 
